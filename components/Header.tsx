@@ -25,8 +25,8 @@ export default function Header() {
             </Link>
           </li>
           <li>
-            <Link href="/products" className="hover:underline">
-              Products
+            <Link href="/dashboard" className="hover:underline">
+              Dashboard
             </Link>
           </li>
           <li>
