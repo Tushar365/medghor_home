@@ -62,7 +62,7 @@ export default function OfficePage() {
         month: 'short',
         day: 'numeric'
       })
-    } catch (error) {
+    } catch {
       return 'Invalid Date'
     }
   }, [])
